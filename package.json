@@ -1,0 +1,17 @@
+{
+  "name": "cat-card",
+  "version": "1.0.0",
+  "description": "Cat Card Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Uladzislau Sipaila (Uladzislau.Sipaila.pub@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "@mapbox/blend": "^2.0.1",
+    "axios": "^0.23.0",
+    "minimist": "^1.2.5"
+  }
+}
